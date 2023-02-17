@@ -1,0 +1,6 @@
+Logger:
+  Level: 1
+PostgreSQL:
+  DbName: "TestApiDb"
+  Password: "537Jj0422.2"
+  User: "fortuneq"
